@@ -3,6 +3,7 @@
 
 ## Ollama CLI Essentials
 
+
 <details>
 <summary><code>ollama --version</code></summary>
 
@@ -93,4 +94,5 @@ ollama delete llama2
 
 </details>
 
+![Ollama Essentials](/img/ollama/011-ollama.png)
 
